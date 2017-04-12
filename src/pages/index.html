@@ -33,12 +33,18 @@
 </div>
 
 <div class="row small-up-2 large-up-4">
-  <div class="column">
-    <img class="thumbnail" src="http://placehold.it/300x400">
-    <h5>Nulla At Nulla Justo, Eget</h5>
-    <p>$400</p>
-    <a href="#" class="button expanded">Buy</a>
-  </div>
+  {{#each beers}}
+    {{#each beers-top}}
+      <div class="column">
+        <img class="thumbnail" src="https://unsplash.it/300/400/?random">
+        <h5>{{this.name}}</h5>
+        <p>{{this.type}}</p>
+        <p>{{this.degres}}</p>
+        <p>{{this.location}}</p>
+        <a href="#" class="button expanded">Buy</a>
+      </div>
+    {{/each}}
+  {{/each}}
 </div>
 
 <div class="row column"><hr class="dotted"></div>
@@ -47,10 +53,18 @@
   <h2>Some Other Classics</h2>
 </div>
 <div class="row small-up-2 medium-up-3 large-up-6">
-  <div class="column">
-    <img class="thumbnail" src="http://placehold.it/300x400">
-    <h5>Nulla At Nulla Justo, Eget</h5>
-    <p>$400</p>
+    {{#each beers}}
+      {{#each beers-reste}}
+        <div class="column">
+          <img class="thumbnail" src="https://unsplash.it/300/400/?random">
+          <h5>{{this.name}}</h5>
+          <p>{{this.type}}</p>
+          <p>{{this.degres}}</p>
+          <p>{{this.location}}</p>
+          <a href="#" class="button expanded">Buy</a>
+        </div>
+      {{/each}}
+    {{/each}}
     <a href="#" class="button small expanded hollow">Buy</a>
   </div>
 </div>
