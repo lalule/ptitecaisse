@@ -1,28 +1,3 @@
-<div class="top-bar">
-    <div class="top-bar-left">
-      <ul class="menu" data-dropdown-menu>
-        <li class="menu-text"><img src="assets/img/logo.png" class="header-logo" alt="logo"></li>
-        <li><a href="#" class="white-menu">Today</a></li>
-        <li><a href="#" class="white-menu">Classics</a></li>
-      </ul>
-    </div>
-    <div class="top-bar-right">
-      <ul class="menu">
-        <li><input type="search" placeholder="Search"></li>
-        <li><button type="button" class="button">Search</button></li>
-      </ul>
-    </div>
-</div>
-
-<div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit="59m2ys-orbit">
-  <ul class="orbit-container" tabindex="0" style="height: 540px;">
-    <li class="orbit-slide is-active slide-in-right mui-enter mui-enter-active" data-slide="0" style="max-height: 540px; display: list-item; position: absolute; top: 0px;"  >
-      <a href="#" class="button big-txt-overlay">Beers Hunter</a>
-      <img src="assets/img/brewery.jpg">
-    </li>
-  </ul>
-</div>
-
 <div class="row align-center" style="text-align:center;">
   <div class="small-12 columns">
     <br>
@@ -34,7 +9,7 @@
 
 <div class="row small-up-2 large-up-4">
   {{#each beers}}
-    {{#each beers-top}}
+    {{#ifequal this.slideNumber 'first' }}
       <div class="column">
         <img class="thumbnail" src="https://unsplash.it/300/400/?random">
         <h5>{{this.name}}</h5>
@@ -43,18 +18,18 @@
         <p>{{this.location}}</p>
         <a href="#" class="button expanded">Buy</a>
       </div>
-    {{/each}}
+    {{/ifequal}}
   {{/each}}
 </div>
 
-<div class="row column"><hr class="dotted"></div>
+<hr class="dotted">
 
 <div class="row column text-center">
   <h2>Some Other Classics</h2>
 </div>
 <div class="row small-up-2 medium-up-3 large-up-6">
     {{#each beers}}
-      {{#each beers-reste}}
+      {{#ifequal this.slideNumber 'second' }}
         <div class="column">
           <img class="thumbnail" src="https://unsplash.it/300/400/?random">
           <h5>{{this.name}}</h5>
@@ -63,8 +38,8 @@
           <p>{{this.location}}</p>
           <a href="#" class="button expanded">Buy</a>
         </div>
-      {{/each}}
+      {{/ifequal}}
     {{/each}}
-    <a href="#" class="button small expanded hollow">Buy</a>
   </div>
 </div>
+
