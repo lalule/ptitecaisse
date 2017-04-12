@@ -49,3 +49,8 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+@import 'header';
+@import 'text-overlays';
+@import 'other-components';
+@import 'footer';
