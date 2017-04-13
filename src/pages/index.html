@@ -11,7 +11,7 @@
   {{#each beers}}
     {{#ifequal this.slideNumber 'first' }}
       <div class="column">
-        <img class="thumbnail" src="https://unsplash.it/300/400/?random">
+        <img class="thumbnail" src="{{root}}{{this.imageurl}}">
         <h5>{{this.name}}</h5>
         <p>{{this.type}}</p>
         <p>{{this.degres}}</p>
@@ -31,7 +31,7 @@
     {{#each beers}}
       {{#ifequal this.slideNumber 'second' }}
         <div class="column">
-          <img class="thumbnail" src="https://unsplash.it/300/400/?random">
+          <img class="thumbnail" src="{{root}}{{this.imageurl}}">
           <h5>{{this.name}}</h5>
           <p>{{this.type}}</p>
           <p>{{this.degres}}</p>
