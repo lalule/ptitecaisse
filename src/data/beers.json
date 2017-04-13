@@ -18,23 +18,23 @@
   },
   {
      "name":"Coq Hardi",
-     "type":"Fermentation basse, Blonde",
+     "type":"Blonde",
      "degres":"5,5 %",
      "location":"Brasserie Haacht",
-     "slideNumber":"first",
+     "slideNumber":"second",
      "imageurl":"assets/img/coq-hardi.jpg"
   },
   {
-     "name":"Corsendonk Blonde",
+     "name":"Corsendonk",
      "type":"Fermentation haute",
      "degres":"6,5 %",
-     "location":"Brasserie du Bocq pour la Brasserie Corsendonk",
-     "slideNumber":"first",
+     "location":"Brasserie du Bocq",
+     "slideNumber":"second",
      "imageurl":"assets/img/corsendonk.png"
   },
   {
      "name":"Cuvée des Trolls",
-     "type":"Fermentation haute, Blonde",
+     "type":"Blonde",
      "degres":"7 %",
      "location":"Brasserie Dubuisson",
      "slideNumber": "second",
@@ -44,7 +44,7 @@
      "name":"De Koninck",
      "type":"Ambrée",
      "degres":"5,2 %",
-     "location":"Brasserie De Koninck (Brasserie Duvel Moortgat)",
+     "location":"Brasserie De Koninck",
      "slideNumber": "second",
      "imageurl":"assets/img/dekonnick.png"
   },
@@ -53,7 +53,7 @@
      "type":"Fermentation haute",
      "degres":"8,5 %",
      "location":"Brasserie Duvel Moortgat",
-     "slideNumber": "second",
+     "slideNumber": "first",
      "imageurl":"assets/img/duvel.png"
   },
   {
@@ -84,29 +84,29 @@
      "name":"Grimbergen Blond  Abbaye",
      "type":"Fermentation haute",
      "degres":"6,7 %",
-     "location":"Alken-Maes (Heineken)",
-     "slideNumber": "second",
+     "location":"Heineken",
+     "slideNumber": "first",
      "imageurl":"assets/img/grimb.png"
   },
   {
      "name":"Grimbergen Goud",
-     "type":"Fermentation haute, Blonde",
+     "type":"Blonde",
      "degres":"8 %",
-     "location":"Alken-Maes (Heineken)",
+     "location":"Heineken",
      "slideNumber": "second",
      "imageurl":"assets/img/grimbergen-goud.jpg"
   },
   {
      "name":"Cristal 1928",
-     "type":"Fermentation basse, Pils",
+     "type":"Pils",
      "degres":"5,8 %",
-     "location":"Alken-Maes (Heineken)",
+     "location":"Heineken",
      "slideNumber": "second",
      "imageurl":"assets/img/cristal.jpg"
   },
   {
-     "name":"DeuS",
-     "type":"Brut, Blonde",
+     "name":"Deus",
+     "type":"Blonde",
      "degres":"11,5 %",
      "location":"Brasserie Bosteels",
      "slideNumber": "second",
@@ -124,7 +124,7 @@
      "name":"Westmalle Tripel",
      "type":"Trappiste",
      "degres":"9,5 %",
-     "location":"Abbaye Notre-Dame du Sacré-Cœur de Westmalle",
+     "location":"Sacré-Cœur de Westmalle",
      "slideNumber": "second",
      "imageurl":"assets/img/westmalle.jpg"
   }
