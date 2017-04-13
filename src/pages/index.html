@@ -2,44 +2,62 @@
   <div class="small-12 columns">
     <br>
     <h1>Beers Hunter</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet ratione molestias, ipsam aliquid vero placeat nobis, delectus fugit odit nam, impedit modi numquam suscipit ad reprehenderit at repellat reiciendis rerum!</p>
+    <p>Wanna be drunk fast or just wanna be during the whole night ? We've got the right beer for you to taste.</p>
     <br>
   </div>
 </div>
 
-<div class="row small-up-2 large-up-4">
+<div class="row small-up-2 large-up-4 padding-bottom">
   {{#each beers}}
     {{#ifequal this.slideNumber 'first' }}
       <div class="column">
-        <img class="thumbnail" src="{{root}}{{this.imageurl}}">
+        <img class="thumbnail big-thumbnail" src="{{root}}{{this.imageurl}}">
         <h5>{{this.name}}</h5>
         <p>{{this.type}}</p>
         <p>{{this.degres}}</p>
         <p>{{this.location}}</p>
-        <a href="#" class="button expanded">Buy</a>
+        <a href="#" class="button expanded">🍻 Taste 🍻</a>
       </div>
     {{/ifequal}}
   {{/each}}
 </div>
 
-<hr class="dotted">
+<section class="section light">
+  <div class="row align-middle">
+    <div class="small-12 columns text-center">
+      <p class="big-txt">🤘🏻 Beers Hunter, your beer explorer 🤘🏻</p>
+      <a href="https://m.me/homesign" class="button button-facebook large" target="_blank">
+        <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.582 0 0 3.316 0 7.407c0 2.332 1.163 4.41 2.98 5.77V16l2.725-1.495c.727.2 1.497.31 2.295.31 4.418 0 8-3.317 8-7.408C16 3.317 12.418 0 8 0zm.795 9.975L6.758 7.802 2.783 9.975l4.372-4.642 2.087 2.173 3.926-2.173-4.373 4.642z" fill-rule="nonzero"></path></svg>
+      Get in touch with our team</a>
+    </div>
+  </div>
+</section>
 
-<div class="row column text-center">
+<div class="rrow padding align-center text-center">
   <h2>Some Other Classics</h2>
 </div>
 <div class="row small-up-2 medium-up-3 large-up-6">
     {{#each beers}}
       {{#ifequal this.slideNumber 'second' }}
         <div class="column">
-          <img class="thumbnail" src="{{root}}{{this.imageurl}}">
+          <img class="thumbnail small-thumbnail" src="{{root}}{{this.imageurl}}">
           <h5>{{this.name}}</h5>
-          <p>{{this.type}}</p>
-          <p>{{this.degres}}</p>
-          <p>{{this.location}}</p>
-          <a href="#" class="button expanded">Buy</a>
+          <p class="small-p">{{this.type}}</p>
+          <p class="small-p">{{this.degres}}</p>
+          <p class="small-p">{{this.location}}</p>
+          <a href="#" class="button expanded">🍻 Taste 🍻</a>
         </div>
       {{/ifequal}}
     {{/each}}
   </div>
 </div>
-
+<section class="section light">
+  <div class="row align-middle">
+    <div class="small-12 columns text-center">
+      <p class="big-txt">🤘🏻 Beers Hunter, always on the taste 🤘🏻</p>
+      <a href="https://m.me/homesign" class="button button-facebook large" target="_blank">
+        <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.582 0 0 3.316 0 7.407c0 2.332 1.163 4.41 2.98 5.77V16l2.725-1.495c.727.2 1.497.31 2.295.31 4.418 0 8-3.317 8-7.408C16 3.317 12.418 0 8 0zm.795 9.975L6.758 7.802 2.783 9.975l4.372-4.642 2.087 2.173 3.926-2.173-4.373 4.642z" fill-rule="nonzero"></path></svg>
+      Get in touch with our team</a>
+    </div>
+  </div>
+</section>
