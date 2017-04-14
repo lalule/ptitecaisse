@@ -17,30 +17,6 @@
      "imageurl":"assets/img/chouffe-blonde.jpg"
   },
   {
-     "name":"Coq Hardi",
-     "type":"Blonde",
-     "degres":"5,5 %",
-     "location":"Brasserie Haacht",
-     "slideNumber":"second",
-     "imageurl":"assets/img/coq-hardi.jpg"
-  },
-  {
-     "name":"Corsendonk",
-     "type":"Fermentation haute",
-     "degres":"6,5 %",
-     "location":"Brasserie du Bocq",
-     "slideNumber":"second",
-     "imageurl":"assets/img/corsendonk.png"
-  },
-  {
-     "name":"Cuvée des Trolls",
-     "type":"Blonde",
-     "degres":"7 %",
-     "location":"Brasserie Dubuisson",
-     "slideNumber": "second",
-     "imageurl":"assets/img/cuvee-des-trolls.jpg"
-  },
-  {
      "name":"De Koninck",
      "type":"Ambrée",
      "degres":"5,2 %",
@@ -73,14 +49,6 @@
      "imageurl":"assets/img/fantome.jpg"
   },
   {
-     "name":"La Forgeronne",
-     "type":"Ambrée",
-     "degres":"6 %",
-     "location":"Brasserie de Tubize",
-     "slideNumber": "second",
-     "imageurl":"assets/img/la-forgeronne.jpg"
-  },
-  {
      "name":"Grimbergen Blond  Abbaye",
      "type":"Fermentation haute",
      "degres":"6,7 %",
@@ -97,14 +65,6 @@
      "imageurl":"assets/img/grimbergen-goud.jpg"
   },
   {
-     "name":"Cristal 1928",
-     "type":"Pils",
-     "degres":"5,8 %",
-     "location":"Heineken",
-     "slideNumber": "second",
-     "imageurl":"assets/img/cristal.jpg"
-  },
-  {
      "name":"Deus",
      "type":"Blonde",
      "degres":"11,5 %",
@@ -119,13 +79,5 @@
      "location":"Brasserie St. Bernardus",
      "slideNumber": "second",
      "imageurl":"assets/img/Watou_Tripel.jpg"
-  },
-  {
-     "name":"Westmalle Tripel",
-     "type":"Trappiste",
-     "degres":"9,5 %",
-     "location":"Sacré-Cœur de Westmalle",
-     "slideNumber": "second",
-     "imageurl":"assets/img/westmalle.jpg"
   }
 ]
