@@ -5,7 +5,8 @@
      "degres":"6%",
      "location":"Grain d'Orge",
      "slideNumber":"first",
-     "imageurl":"assets/img/3-schteng.jpg"
+     "imageurl":"assets/img/3-schteng.jpg",
+     "url":"http://biere-speciale.fr/les-bieres/549-3-Schteng-33cl.html"
 
   },
   {
@@ -14,7 +15,8 @@
      "degres":"8%",
      "location":"Brasserie d'Achouffe",
      "slideNumber":"first",
-     "imageurl":"assets/img/chouffe-blonde.jpg"
+     "imageurl":"assets/img/chouffe-blonde.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1481-la-chouffe.html"
   },
   {
      "name":"Coq Hardi",
@@ -22,7 +24,8 @@
      "degres":"5,5 %",
      "location":"Brasserie Haacht",
      "slideNumber":"second",
-     "imageurl":"assets/img/coq-hardi.jpg"
+     "imageurl":"assets/img/coq-hardi.jpg",
+     "url":"http://www.haacht.com/fr-FR/Merken/Beers/Coq%20Hardi"
   },
   {
      "name":"Corsendonk",
@@ -30,7 +33,8 @@
      "degres":"6,5 %",
      "location":"Brasserie du Bocq",
      "slideNumber":"second",
-     "imageurl":"assets/img/corsendonk.png"
+     "imageurl":"assets/img/corsendonk.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1301-corsendonk-blonde-agnus.html"
   },
   {
      "name":"Cuvée des Trolls",
@@ -38,7 +42,8 @@
      "degres":"7 %",
      "location":"Brasserie Dubuisson",
      "slideNumber": "second",
-     "imageurl":"assets/img/cuvee-des-trolls.jpg"
+     "imageurl":"assets/img/cuvee-des-trolls.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/126-cuvee-des-trolls.html"
   },
   {
      "name":"De Koninck",
@@ -46,7 +51,8 @@
      "degres":"5,2 %",
      "location":"Brasserie De Koninck",
      "slideNumber": "second",
-     "imageurl":"assets/img/dekonnick.png"
+     "imageurl":"assets/img/dekonnick.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1829-dekoninck.html"
   },
   {
      "name":"Duvel",
@@ -54,7 +60,8 @@
      "degres":"8,5 %",
      "location":"Brasserie Duvel Moortgat",
      "slideNumber": "first",
-     "imageurl":"assets/img/duvel.png"
+     "imageurl":"assets/img/duvel.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/107-duvel.html"
   },
   {
      "name":"Durboyse blonde",
@@ -62,7 +69,8 @@
      "degres":"6,5 %",
      "location":"Brasserie Lefèbvre",
      "slideNumber": "second",
-     "imageurl":"assets/img/durboyse.png"
+     "imageurl":"assets/img/durboyse.png",
+     "url":"https://www.ratebeer.com/beer/durboyse-blonde/48944/"
   },
   {
      "name":"Fantôme",
@@ -70,7 +78,8 @@
      "degres":"8 %",
      "location":"Brasserie Fantôme",
      "slideNumber": "second",
-     "imageurl":"assets/img/fantome.jpg"
+     "imageurl":"assets/img/fantome.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/4214-fantome.html"
   },
   {
      "name":"La Forgeronne",
@@ -78,7 +87,8 @@
      "degres":"6 %",
      "location":"Brasserie de Tubize",
      "slideNumber": "second",
-     "imageurl":"assets/img/la-forgeronne.jpg"
+     "imageurl":"assets/img/la-forgeronne.jpg",
+     "url":"https://www.delcampe.net/en_GB/collectables/labels/beer/etiquette-biere-la-forgeronne-0-33l-brasserie-de-tubize-bier-etiket-ale-label-front-back-352726235.html"
   },
   {
      "name":"Grimbergen Blond  Abbaye",
@@ -86,7 +96,8 @@
      "degres":"6,7 %",
      "location":"Heineken",
      "slideNumber": "first",
-     "imageurl":"assets/img/grimb.png"
+     "imageurl":"assets/img/grimb.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1303-grimbergen-blonde.html"
   },
   {
      "name":"Grimbergen Goud",
@@ -94,7 +105,8 @@
      "degres":"8 %",
      "location":"Heineken",
      "slideNumber": "second",
-     "imageurl":"assets/img/grimbergen-goud.jpg"
+     "imageurl":"assets/img/grimbergen-goud.jpg",
+     "url":"https://www.uvinum.fr/biere/grimbergen-goud-8"
   },
   {
      "name":"Cristal 1928",
@@ -102,7 +114,8 @@
      "degres":"5,8 %",
      "location":"Heineken",
      "slideNumber": "second",
-     "imageurl":"assets/img/cristal.jpg"
+     "imageurl":"assets/img/cristal.jpg",
+     "url":"http://www.bierebel.com/bieres-belges/cristal"
   },
   {
      "name":"Deus",
@@ -110,7 +123,8 @@
      "degres":"11,5 %",
      "location":"Brasserie Bosteels",
      "slideNumber": "second",
-     "imageurl":"assets/img/deus.jpg"
+     "imageurl":"assets/img/deus.jpg",
+     "url":"http://biershop.bierpost.com/de/deus-brut-des-fla-nders-belgien-grossflasche-075l#.WPCGExLygy4"
   },
   {
      "name":"Watou Tripel",
@@ -118,7 +132,8 @@
      "degres":"7,5 %",
      "location":"Brasserie St. Bernardus",
      "slideNumber": "second",
-     "imageurl":"assets/img/Watou_Tripel.jpg"
+     "imageurl":"assets/img/Watou_Tripel.jpg",
+     "url":"http://www.beerofbelgium.com/fr/watou-triple-33cl.html"
   },
   {
      "name":"Westmalle Tripel",
@@ -126,6 +141,7 @@
      "degres":"9,5 %",
      "location":"Sacré-Cœur de Westmalle",
      "slideNumber": "second",
-     "imageurl":"assets/img/westmalle.jpg"
+     "imageurl":"assets/img/westmalle.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/89-westmalle-triple.html"
   }
 ]
