@@ -5,8 +5,8 @@
      "degres":"6%",
      "location":"Grain d'Orge",
      "slideNumber":"first",
-     "imageurl":"assets/img/3-schteng.jpg"
-
+     "imageurl":"assets/img/3-schteng.jpg",
+     "url":"http://biere-speciale.fr/les-bieres/549-3-Schteng-33cl.html"
   },
   {
      "name":"La Chouffe Blonde",
@@ -14,7 +14,8 @@
      "degres":"8%",
      "location":"Brasserie d'Achouffe",
      "slideNumber":"first",
-     "imageurl":"assets/img/chouffe-blonde.jpg"
+     "imageurl":"assets/img/chouffe-blonde.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1481-la-chouffe.html"
   },
   {
      "name":"De Koninck",
@@ -22,7 +23,8 @@
      "degres":"5,2 %",
      "location":"Brasserie De Koninck",
      "slideNumber": "second",
-     "imageurl":"assets/img/dekonnick.png"
+     "imageurl":"assets/img/dekonnick.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1829-dekoninck.html"
   },
   {
      "name":"Duvel",
@@ -30,7 +32,8 @@
      "degres":"8,5 %",
      "location":"Brasserie Duvel Moortgat",
      "slideNumber": "first",
-     "imageurl":"assets/img/duvel.png"
+     "imageurl":"assets/img/duvel.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/107-duvel.html"
   },
   {
      "name":"Durboyse blonde",
@@ -38,7 +41,8 @@
      "degres":"6,5 %",
      "location":"Brasserie Lefèbvre",
      "slideNumber": "second",
-     "imageurl":"assets/img/durboyse.png"
+     "imageurl":"assets/img/durboyse.png",
+     "url":"https://www.ratebeer.com/beer/durboyse-blonde/48944/"
   },
   {
      "name":"Fantôme",
@@ -46,7 +50,8 @@
      "degres":"8 %",
      "location":"Brasserie Fantôme",
      "slideNumber": "second",
-     "imageurl":"assets/img/fantome.jpg"
+     "imageurl":"assets/img/fantome.jpg",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/4214-fantome.html"
   },
   {
      "name":"Grimbergen Blond  Abbaye",
@@ -54,7 +59,8 @@
      "degres":"6,7 %",
      "location":"Heineken",
      "slideNumber": "first",
-     "imageurl":"assets/img/grimb.png"
+     "imageurl":"assets/img/grimb.png",
+     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1303-grimbergen-blonde.html"
   },
   {
      "name":"Grimbergen Goud",
@@ -62,7 +68,8 @@
      "degres":"8 %",
      "location":"Heineken",
      "slideNumber": "second",
-     "imageurl":"assets/img/grimbergen-goud.jpg"
+     "imageurl":"assets/img/grimbergen-goud.jpg",
+     "url":"https://www.uvinum.fr/biere/grimbergen-goud-8"
   },
   {
      "name":"Deus",
@@ -70,7 +77,8 @@
      "degres":"11,5 %",
      "location":"Brasserie Bosteels",
      "slideNumber": "second",
-     "imageurl":"assets/img/deus.jpg"
+     "imageurl":"assets/img/deus.jpg",
+     "url":"http://biershop.bierpost.com/de/deus-brut-des-fla-nders-belgien-grossflasche-075l#.WPCGExLygy4"
   },
   {
      "name":"Watou Tripel",
@@ -78,6 +86,7 @@
      "degres":"7,5 %",
      "location":"Brasserie St. Bernardus",
      "slideNumber": "second",
-     "imageurl":"assets/img/Watou_Tripel.jpg"
+     "imageurl":"assets/img/Watou_Tripel.jpg",
+     "url":"http://www.beerofbelgium.com/fr/watou-triple-33cl.html"
   }
 ]

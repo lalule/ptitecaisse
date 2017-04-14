@@ -16,7 +16,8 @@
         <p>{{this.type}}</p>
         <p>{{this.degres}}</p>
         <p>{{this.location}}</p>
-        <a href="#" class="button expanded">🍻 Taste 🍻</a>
+        <a href="{{this.url}}" target="_blank" class="button expanded">🍻 Taste 🍻</a>
+
       </div>
     {{/ifequal}}
   {{/each}}
@@ -40,19 +41,18 @@
   <h2>Some Other Classics</h2>
 </div>
 <div class="row small-up-2 medium-up-3 large-up-6 padding-bottom">
-    {{#each beers}}
-      {{#ifequal this.slideNumber 'second' }}
-        <div class="column">
-          <img class="thumbnail small-thumbnail" src="{{root}}{{this.imageurl}}">
-          <h5>{{this.name}}</h5>
-          <p class="small-p">{{this.type}}</p>
-          <p class="small-p">{{this.degres}}</p>
-          <p class="small-p">{{this.location}}</p>
-          <a href="#" class="button expanded">🍻 Taste 🍻</a>
-        </div>
-      {{/ifequal}}
-    {{/each}}
-  </div>
+  {{#each beers}}
+    {{#ifequal this.slideNumber 'second' }}
+      <div class="column">
+        <img class="thumbnail small-thumbnail" src="{{root}}{{this.imageurl}}">
+        <h5>{{this.name}}</h5>
+        <p class="small-p">{{this.type}}</p>
+        <p class="small-p">{{this.degres}}</p>
+        <p class="small-p">{{this.location}}</p>
+        <a href="{{this.url}}" target="_blank" class="button expanded">🍻 Taste 🍻</a>
+      </div>
+    {{/ifequal}}
+  {{/each}}
 </div>
 <!-- <section class="brewdog-background light">
   <div class="image-overlay">
