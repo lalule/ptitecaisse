@@ -18,33 +18,6 @@
      "url":"https://www.saveur-biere.com/fr/biere-bouteille/1481-la-chouffe.html"
   },
   {
-     "name":"Coq Hardi",
-     "type":"Blonde",
-     "degres":"5,5 %",
-     "location":"Brasserie Haacht",
-     "slideNumber":"second",
-     "imageurl":"assets/img/coq-hardi.jpg",
-     "url":"http://www.haacht.com/fr-FR/Merken/Beers/Coq%20Hardi"
-  },
-  {
-     "name":"Corsendonk",
-     "type":"Fermentation haute",
-     "degres":"6,5 %",
-     "location":"Brasserie du Bocq",
-     "slideNumber":"second",
-     "imageurl":"assets/img/corsendonk.png",
-     "url":"https://www.saveur-biere.com/fr/biere-bouteille/1301-corsendonk-blonde-agnus.html"
-  },
-  {
-     "name":"Cuvée des Trolls",
-     "type":"Blonde",
-     "degres":"7 %",
-     "location":"Brasserie Dubuisson",
-     "slideNumber": "second",
-     "imageurl":"assets/img/cuvee-des-trolls.jpg",
-     "url":"https://www.saveur-biere.com/fr/biere-bouteille/126-cuvee-des-trolls.html"
-  },
-  {
      "name":"De Koninck",
      "type":"Ambrée",
      "degres":"5,2 %",
@@ -81,15 +54,6 @@
      "url":"https://www.saveur-biere.com/fr/biere-bouteille/4214-fantome.html"
   },
   {
-     "name":"La Forgeronne",
-     "type":"Ambrée",
-     "degres":"6 %",
-     "location":"Brasserie de Tubize",
-     "slideNumber": "second",
-     "imageurl":"assets/img/la-forgeronne.jpg",
-     "url":"https://www.delcampe.net/en_GB/collectables/labels/beer/etiquette-biere-la-forgeronne-0-33l-brasserie-de-tubize-bier-etiket-ale-label-front-back-352726235.html"
-  },
-  {
      "name":"Grimbergen Blond  Abbaye",
      "type":"Fermentation haute",
      "degres":"6,7 %",
@@ -108,15 +72,6 @@
      "url":"https://www.uvinum.fr/biere/grimbergen-goud-8"
   },
   {
-     "name":"Cristal 1928",
-     "type":"Pils",
-     "degres":"5,8 %",
-     "location":"Heineken",
-     "slideNumber": "second",
-     "imageurl":"assets/img/cristal.jpg",
-     "url":"http://www.bierebel.com/bieres-belges/cristal"
-  },
-  {
      "name":"Deus",
      "type":"Blonde",
      "degres":"11,5 %",
@@ -133,14 +88,5 @@
      "slideNumber": "second",
      "imageurl":"assets/img/Watou_Tripel.jpg",
      "url":"http://www.beerofbelgium.com/fr/watou-triple-33cl.html"
-  },
-  {
-     "name":"Westmalle Tripel",
-     "type":"Trappiste",
-     "degres":"9,5 %",
-     "location":"Sacré-Cœur de Westmalle",
-     "slideNumber": "second",
-     "imageurl":"assets/img/westmalle.jpg",
-     "url":"https://www.saveur-biere.com/fr/biere-bouteille/89-westmalle-triple.html"
   }
 ]

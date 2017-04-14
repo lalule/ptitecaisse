@@ -11,10 +11,19 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
-.big-txt{
-  font-size: 25px;
-  font-weight: bold;
-}
 .padding-bottom{
   padding-bottom: 20px;
+}
+.brewdog-background{
+  background-image: url("../img/brewdog_background.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.image-overlay{
+  @include breakpoint(medium) {
+    min-height: 100vh;
+  }
+}
+.center-padding{
+  padding: 17em;
 }
